@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Emine!&fontSize=45&fontAlignY=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20page%20!&fontSize=45&fontAlignY=40&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Software+Engineer;AI+Enthusiast;Data+Scientist;)](https://git.io/typing-svg)
 ## About Me
